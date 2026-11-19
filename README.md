@@ -67,9 +67,8 @@ Il gioco funziona completamente anche con il solo file HTML. Tuttavia, per abili
 Su dispositivi privi di puntatore di precisione, sotto l'area di gioco compaiono automaticamente tre controlli dedicati per il movimento laterale e il salto.
 
 ### Codici Segreti (Easter Egg)
-Digitando specifiche sequenze di tasti durante la sessione di gioco si attivano funzioni di debug:
-- `iddqd`: Attiva o disattiva la modalità immortalità (protegge da nemici, punte e vapore, ma non dalle cadute nel vuoto).
-- `mysterio`: Completa istantaneamente il livello corrente.
+Digitando specifiche sequenze di tasti durante la sessione di gioco si attivano funzioni di debug.
+No, non ve li dico.
 
 ---
 
