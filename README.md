@@ -11,6 +11,8 @@
 
 L'obiettivo del giocatore è guidare un automa in fuga attraverso quattro settori meccanici, raccogliendo tutti gli ingranaggi disseminati lungo il percorso per sbloccare la porta di uscita ed evitare pericoli ambientali e pattuglie robotiche.
 
+[Puoi giocarci qui](https://tagtthespellcaster.github.io/Machina-Fugitiva/)
+
 ---
 
 ## Caratteristiche Principali
